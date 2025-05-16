@@ -1,0 +1,21 @@
+Technische Richtlinie: Optimierung der Schweißprozesse
+    
+    Parameter für optimale Schweißergebnisse:
+    - Materialpaarung Stahl-Aluminium: Schweißstrom 180-220A, Schweißgeschwindigkeit 25-30cm/min
+    - Materialpaarung Stahl-Stahl: Schweißstrom 200-250A, Schweißgeschwindigkeit 30-35cm/min
+    - Materialpaarung Aluminium-Aluminium: Schweißstrom 160-190A, Schweißgeschwindigkeit 35-40cm/min
+    
+    Umgebungsbedingungen:
+    - Raumtemperatur: 18-22°C
+    - Luftfeuchtigkeit: 40-60%
+    - Staubbelastung: <5mg/m³
+    
+    Häufige Problemursachen:
+    - Ungleichmäßige Schweißnaht: Falsche Geschwindigkeit oder Stromstärke
+    - Porenbildung: Verunreinigte Oberflächen oder fehlerhafte Schutzgaszufuhr
+    - Rissbildung: Zu schnelle Abkühlung oder falsche Materialvorbereitung
+    
+    Qualitätssichernde Maßnahmen:
+    - Visuelle Prüfung nach jedem 10. Bauteil
+    - Ultraschallprüfung bei sicherheitsrelevanten Bauteilen
+    - Zerstörende Prüfung bei Stichproben (1 von 100)

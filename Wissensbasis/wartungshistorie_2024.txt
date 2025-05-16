@@ -1,0 +1,32 @@
+Wartungshistorie Halle B - 2024
+
+15.01.2024: 
+Roboter A-2000 (Station 4) - E-301 Fehler aufgetreten
+Ursache: Verstopfte Kühlluftfilter
+Maßnahme: Filter gereinigt, Lüfter ersetzt
+
+06.02.2024
+Präventive Wartung Roboter 2 Typ SCX-340
+Durchgeführte Arbeiten: Kalibrierung
+
+28.02.2024:
+Montagelinie B - Störung im Anlaufprozess
+Ursache: Druckluftsystem unter 5 bar gefallen
+Maßnahme: Kompressor repariert, Leckage behoben
+
+12.03.2024
+Präventive Wartung Roboter 6 Typ SCX-340
+Durchgeführte Arbeiten: Kalibrierung
+
+17.03.2024:
+Fertigungslinie C - Erhöhte Ausschussrate bei Schweißteilen
+Ursache: Verschlissene Elektroden
+Maßnahme: Elektroden gewechselt, Parameter angepasst
+
+05.04.2024:
+Präventive Wartung Roboter 1 Typ SCX-340
+Durchgeführte Arbeiten: Softwareupdates, Kalibrierung, Sensortausch
+
+06.04.2024
+Präventive Wartung Roboter 2 Typ SCX-340
+Durchgeführte Arbeiten: Softwareupdates, Kalibrierung, Sensortausch

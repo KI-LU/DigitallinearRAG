@@ -1,0 +1,21 @@
+Sicherheitsvorschriften für Wartungsarbeiten an Roboter Typ SCX-340
+
+Vor jeder Wartung:
+- Persönliche Schutzausrüstung tragen (Helm, Schutzbrille, Handschuhe)
+- Wartungsbereich absperren
+
+Lockout/Tagout-Verfahren anwenden:
+- Stromkreisunterbrecher K3 umlegen und mit dem vorgesehenen Schloss fixieren
+- Wartungaufkleber am Schloss anbringen (Aufkleber ergänzen durch Beginn der Wartung Tag/Uhrzeit, Grund sowie Name der Mitarbeitenden)
+
+Bei Arbeiten an Hochspannungskomponenten:
+- Nur zertifiziertes Personal darf diese durchführen
+- Spannungsfreiheit feststellen (Vorsicht: Prüfsigel des Messgeräts darf nicht älter als 6 Monate sein)
+- Erdungskabel anbringen
+
+Bei Notfällen:
+- Roten Notaus-Schalter betätigen
+- Vorgesetzten informieren
+- Bei Verletzungen: Ersthelfer rufen(aktuelle Ersthelfer: F. Unvart, H. Müller, S. Netschinski, M. Halder, S. Aue),
+- Unfallbericht ausfüllen (Vordruck am Halleneingang links, grüner Kasten, oder als Online-Formular auf dem Server unter Main/Dokumentation/Sicherheit/Unfall)
+

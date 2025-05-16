@@ -1,0 +1,17 @@
+Qualitätssicherungsprotokoll für Fertigungslinie C
+
+Prüfkriterien für Schweißnähte:
+- Nahtlänge: 120mm ±2mm
+- Nahtbreite: 3mm ±0,5mm
+- Festigkeitsprüfung: Min. 500N Zugkraft
+
+Fehlerhafte Schweißnähte erkennt man an:
+- Porenbildung: Kleine Löcher in der Schweißnaht
+- Einbrand: Ungleichmäßige Tiefe der Naht
+- Verzug: Verformung des Materials
+
+Bei mehr als 3 fehlerhaften Teilen pro Stunde:
+1. Produktion anhalten
+2. Schweißparameter überprüfen
+3. Materialzuführung kontrollieren
+4. Supervisor informieren
