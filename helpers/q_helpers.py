@@ -9,7 +9,7 @@ q1['answers'] = [
         'feedback' : 'Das wäre sehr aufwendig und ineffektiv.'
         },
     {
-        'answer' : 'Wir könnten dem Onkel beibringen die Bibliothek zu benutzen und immer nur zu Antworten, wenn er dort Information zu unserer Frage findet.',
+        'answer' : 'Wir könnten dem Onkel beibringen, die Bibliothek zu benutzen und immer nur zu Antworten, wenn er dort Information zu unserer Frage findet.',
         'correct' : True
     }
     ]
@@ -23,7 +23,7 @@ q2['answers'] = [
         {
         'answer' : 'Das LLM sollte auf alten Wartungsdaten und Handbüchern gefinetuned werden',
         'correct' : False,
-        'feedback' : 'Das würde nur für einen Kurzen Zeitraum funktionieren. Sobald sich etwas in der Produktionslinie ändert müsste wieder neu trainiert werden. Das wäre teuer und aufwändig.'
+        'feedback' : 'Das würde nur für einen Kurzen Zeitraum funktionieren. Sobald sich etwas in der Produktionslinie ändert, müsste wieder neu trainiert werden. Das wäre teuer und aufwändig.'
             },
     {
         'answer' : 'Das LLM sollte über RAG Zugriff auf Wartungsdaten und Handbücher bekommen.',
@@ -55,7 +55,7 @@ q4['answers'] = [
         {
         'answer' : '...auf allen Dokumenten das Firmenlogo zu sehen ist.',
         'correct' : False,
-        'feedback' : 'Wie die Dokumente Aussehen ist nicht so relevant. Kunden bekommen diese Dokumente garnihct zu sehen.'
+        'feedback' : 'Wie die Dokumente Aussehen ist nicht so relevant. Kunden bekommen diese Dokumente garnicht zu sehen.'
             },
     {
         'answer' : '...in allen dokumenten der Text durchsuchbar ist.',
@@ -66,7 +66,7 @@ q4['answers'] = [
         'correct' : True
     },
     {
-        'answer' : '...alle Dokumente im richtigen Ordner gespreichert sind.',
+        'answer' : '...alle Dokumente im richtigen Ordner gespeichert sind.',
         'correct' : True
     },
     {
